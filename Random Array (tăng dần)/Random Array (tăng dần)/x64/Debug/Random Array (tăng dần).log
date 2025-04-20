@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\ADMIN\Documents\C++\CTDL & GT\Random Array (tăng dần)\Random Array (tăng dần)\Source.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Random Array (tăng dần).vcxproj -> C:\Users\ADMIN\Documents\C++\CTDL & GT\Random Array (tăng dần)\x64\Debug\Random Array (tăng dần).exe

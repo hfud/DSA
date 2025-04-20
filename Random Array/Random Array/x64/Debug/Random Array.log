@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\ADMIN\Documents\C++\CTDL & GT\Random Array\Random Array\Source.cpp(12,51): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\ADMIN\Documents\C++\CTDL & GT\Random Array\Random Array\Source.cpp(12,46): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Random Array.vcxproj -> C:\Users\ADMIN\Documents\C++\CTDL & GT\Random Array\x64\Debug\Random Array.exe

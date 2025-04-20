@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\ADMIN\Documents\C++\CTDL & GT\Binary Search\Binary Search\FileName.cpp(12,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\ADMIN\Documents\C++\CTDL & GT\Binary Search\Binary Search\FileName.cpp(12,13): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+  Binary Search.vcxproj -> C:\Users\ADMIN\Documents\C++\CTDL & GT\Binary Search\x64\Debug\Binary Search.exe
